@@ -1,12 +1,12 @@
 @font-face {
   font-family: museo;
-  src: url("../MuseoSansCyrl300/MuseoSansCyrl300.ttf");
+  src: url("./MuseoSansCyrl300/MuseoSansCyrl300.ttf");
 }
 @font-face {
   font-family: museo-b;
-  src: url("Museo-Sans-Cyr-700/Museo-Sans-Cyrl-700.ttf");
+  src: url("./Museo-Sans-Cyr-700/Museo-Sans-Cyrl-700.ttf");
 }
 @font-face {
   font-family: museofive;
-  src: url("museo-sans-cyrillic/MuseoSansCyrl-500.otf");
+  src: url("./museo-sans-cyrillic/MuseoSansCyrl-500.otf");
 }
