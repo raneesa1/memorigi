@@ -1,6 +1,3 @@
-# persnal-portfolio
-# personal-portfolio-
-# personal-portfolio-
-# personal-portfolio-
-# personal-portfolio-
-# personal-portfolio-
+# Memorigi Files
+
+Brototype week 2
